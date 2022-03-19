@@ -1,3 +1,5 @@
 1. Giraffe
 2. Monkey
 3. Lion
+4. Tiger
+5. Elephant
